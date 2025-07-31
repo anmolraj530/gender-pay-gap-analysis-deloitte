@@ -1,4 +1,4 @@
-# Gender Pay Gap Analysis - Deloitte Virtual Internship
+[ANALYSIS_METHODOLOGY.md](https://github.com/user-attachments/files/21520437/ANALYSIS_METHODOLOGY.md)# Gender Pay Gap Analysis - Deloitte Virtual Internship
 
 ## Project Overview
 This project analyzes employee salary data to identify gender-based pay disparities using Excel and Python (Pandas, Matplotlib). The analysis includes data cleaning, visualization, and actionable recommendations for improving pay equity.
@@ -41,11 +41,14 @@ This project analyzes employee salary data to identify gender-based pay disparit
 - `Task 5 Model Answer.xlsx`: Model answer for comparison and validation
 
 ### Visualization Files
-- `Dashboard 1.png`: Screenshot of the interactive dashboard
-- `Task One.twb`: Tableau workbook file (requires Tableau to open)
+- `Dashboard 1.png`: <img width="811" height="778" alt="Dashboard 1" src="https://github.com/user-attachments/assets/462710df-e563-487b-9317-09e394ba49c3" />
+
 
 ### Documentation
-- `Task 2 Guide.pdf`: Complete project requirements and guidelines
+- `Task 2 Guide.pdf`: [Uploading ANALYSI[FINDINGS_AND_RECOMMENDATIONS.md](https://github.com/user-attachments/files/21520438/FINDINGS_AND_RECOMMENDATIONS.md)[SETUP_AND_INSTALLATION.md](https://github.com/user-attachments/files/21520440/SETUP_AND_INSTALLATION.md)
+[PROJECT_OVERVIEW.md](https://github.com/user-attachments/files/21520439/PROJECT_OVERVIEW.md)
+S_METHODOLOGY.md…]()
+
 
 ## How to Use This Repository
 
